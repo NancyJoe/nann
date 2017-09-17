@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<class>
+<classname>ruangong 1502</classname>
+<classsize>7</classsize>
+<students>
+
+<no_1>
+ <name>Lily </name>
+ <num>1 </num>
+<sex>male </sex>
+<score>85 </score>
+</no_1>
+
+<no_2>
+ <name>John </name>
+ <num>2 </num>
+<sex>man </sex>
+<score>89 </score>
+</no_2>
+
+<no_3>
+ <name>Mike </name>
+ <num>3 </num>
+<sex>man </sex>
+<score>97 </score>
+</no_3>
+
+<no_4>
+ <name>Lucy </name>
+ <num>4 </num>
+<sex>male </sex>
+<score>78 </score>
+</no_4>
+
+<no_5>
+ <name>Jakson </name>
+ <num>5 </num>
+<sex>man </sex>
+<score>90 </score>
+</no_5>
+
+<no_6>
+ <name>Angel </name>
+ <num>6 </num>
+<sex>man </sex>
+<score>76 </score>
+</no_6>
+
+<no_7>
+ <name>Jane </name>
+ <num>7 </num>
+<sex>male </sex>
+<score>68 </score>
+</no_7>
+
+
+</students>
+</class>
